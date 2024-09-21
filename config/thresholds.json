@@ -1,0 +1,18 @@
+{
+  "cpu_usage_value": {
+    "alert": 70,
+    "critical": 90
+  },
+  "memory_usage_value": {
+    "alert": 75,
+    "critical": 95
+  },
+  "network_in_value": {
+    "alert": 1000,
+    "critical": 2000
+  },
+  "network_out_value": {
+    "alert": 1000,
+    "critical": 2000
+  }
+}
